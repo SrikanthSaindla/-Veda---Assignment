@@ -1,0 +1,31 @@
+input{
+    border:2px solid #311566;
+    height: 20px;
+     border-radius: 10px;
+    max-width: 600px;
+    padding: 4px;
+    font-size: 15px;
+    font-family: "Roboto";
+}
+.btn{
+    background-color:#5d42f5 ;
+    color:white;
+    margin-left: 20px;
+    font-family: "Roboto";
+     
+    width: 60px;
+    font-size: 18px;
+    padding-top: 6px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    height: 30px;
+    border-style: none;
+    border-radius: 5px;
+}
+.form{
+    background-color:#ADD8E6 ;
+    padding: 8px;
+    width: 300px;
+    border-radius: 10px;
+    margin-top: 20px;
+}

@@ -1,0 +1,39 @@
+.main{
+  max-width: 2000px;
+}
+li{
+     
+    margin-bottom: 10px;
+    list-style-type: none;
+    padding-top: 10px;
+    font-size: 20px;
+}
+ul{
+    background-color:#ADD8E6 ;
+     min-width: 280px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+button{
+    color: red;
+    background-color: transparent;
+    border-style: none;
+    margin-right: 10px;
+    
+}
+.list_conatiner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: max-content;
+    margin-top: 50px;
+    
+}
+.up{
+    margin-left: 110px;
+     
+}
